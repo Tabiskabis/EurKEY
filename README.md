@@ -1,21 +1,3 @@
-2023-02-25:
-
-It has been more than a year now that I no longer have Apple hardware.
-I am using Linux exclusively and I do not anticipate the situation changing in
-the foreseeable future, therefore I'm unable to keep updating the macOS port
-and I'm forced to archive it for now. I could still accept submissions, but I
-have a policy of not publishing anything I don't use or can't test myself.
-
-Don't let it discourage you, though; unless you benefit from the [changes made
-in version 1.3](https://eurkey.steffen.bruentjen.eu/changelog.html) (in beta
-for many years now — it might as well be considered released *de facto* at this
-point) the layout you'll find here remains as useful as ever and will not "rot",
-at least not until Apple decides to break the keyboard layout format in a future
-version of macOS.
-
----
-
-
 EurKEY-Mac
 ==========
 
