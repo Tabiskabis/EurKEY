@@ -56,7 +56,7 @@ Use [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download
 I will not publish binary files.
 
 
-## License
+## License
 
 The Layout itself is licensed under [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).
 The EU flag icon is taken from [Iconspedia](http://www.iconspedia.com/pack/european-flags-1631/),
