@@ -32,20 +32,13 @@ Updated to version v1.3 as designed by Steffen Brüntjen, yet **bugged**: The de
 ### `EurKEY-iso.klc`
 
 DLL name: `eurkeyi`  
-Like the Mac -iso version, this one is optimised for ISO style physical keyboards, i.e. the additional bottom left key produces `§`/`±`. This closer reflects the original US layout than the US-International.
+Like the Mac -iso version, this one is optimised for ISO style physical keyboards, i.e. the additional bottom left key produces `§`/`±`. This closer reflects the original US layout than the US-International.  
+Since `altGr + iso-key` is not defined, I made it `\`, inspired by the Swiss layout.
 
 ### `EurKEY-iso-qwertz.klc`
 
 DLL name: `eurkezi`  
 Swapped the `Z` and `Y` keys. For use in QWERTZ dominated places.  
-Undo and redo ***feel*** *buggy*. The en-US locale apparently determines the undo and redo shortcuts in Windows. That makes ctrl-y undo and ctrl-z redo. So undo/redo are physically located where it's expected on QWERTY keyboards.
-
-### `EurKEY-iso-qwertz-sg.klc`
-
-DLL name: `eurkezsg`  
-Based on the de-CH locale (why yes, I'm swiss), this variant counters the awkward undo/redo situation mentioned above.  
-Additionally, `altGr + §` produces `\` as on the `Swiss (German)` Layout.  
-As a side effect, installing this variant adds the language `German (Switzerland)` to the system. It can be removed and the layout added to whatever other language, but that must be done manually in Windows' Settings app.
 
 
 ## Installation
