@@ -1,6 +1,7 @@
 # EurKEY
 
-Ports and variants for Mac and Windows, based on [EurKEY keyboard layout by Steffen Brüntjen](http://eurkey.steffen.bruentjen.eu/) - The Keyboard Layout for Europeans, Coders and Translators
+The Keyboard Layout for Europeans, Coders and Translators  
+Ports and variants for Mac and Windows, based on [EurKEY keyboard layout by Steffen Brüntjen](http://eurkey.steffen.bruentjen.eu/)
 
 
 ## Mac variants
@@ -21,8 +22,7 @@ Swapped the `Z` and `Y` keys. For use in QWERTZ dominated places.
 
 ## Windows variants
 
-Windows seems to be less picky about the physical keyboard style, so there is no ISO variant.  
-It has a bunch of other oddities, though. One being that keyboard layouts are associated with a locale (=language).
+Windows seems to be less picky about the physical keyboard style. It has a bunch of other oddities, though. One being that keyboard layouts are associated with a locale (=language).
 
 ### `EurKEY.klc`
 
